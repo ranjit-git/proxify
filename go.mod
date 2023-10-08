@@ -4,7 +4,8 @@ go 1.20
 
 require (
 	github.com/Knetic/govaluate v3.0.0+incompatible
-	github.com/Shopify/sarama v1.38.1
+	
+        github.com/IBM/sarama latest
 	github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
 	github.com/elastic/go-elasticsearch/v7 v7.17.10
